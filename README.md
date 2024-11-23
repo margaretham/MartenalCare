@@ -1,2 +1,6 @@
 # MartenalCare
 MaternalCare: Smart and Integrated Technology-Based Maternal Health Monitoring Solution
+
+MaternalCare is a health monitoring application development aimed at mothers, during pregnancy. Currently, Indonesia faces challenges related to nutritional problems such as stunting in children under 5 years and anemia in pregnant women. Such problems often arise from a combination of factors such as lack of proper counseling, accurate information and lack of good follow-up in terms of health and nutrition monitoring. Given this background, our team was motivated to provide a practical solution in the form of a digital application to help mothers monitor the health and growth of their children.
+
+The MaternalCare application will have various main features, including monitoring pregnancy growth with a daily/weekly journal, pregnancy age calculator, estimated due date, and nutritional and healthy lifestyle alerts. However, for more information on monitoring infant growth, child growth will be provided which are measured and depicted in a weight growth graph. In addition, the application of these features which include the schedule of immunizations and upcoming check up for children is also available in this software.
