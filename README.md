@@ -23,7 +23,7 @@ The MaternalCare application will have various main features, including monitori
 
 ## Link 
 - [Mobile Apps Source Code](https://github.com/margaretham/MC-Mobile)
-- [Machine Learning Source Code](URL)
+- [Machine Learning Source Code](https://colab.research.google.com/drive/1N1Jcdfy5rkfWcb2je2_rTFKtyNjo6zMs?usp=sharing)
 - [Cloud Computing Source Code](URL)
 - [API Specification](URL)
 
