@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-12-11 at 21 51 21_1982c0ab](https://github.com/user-attachments/assets/7c1c9d0d-a5ed-4ff0-8c07-646c5677a0a5)
+![WhatsApp_Image_2024-12-11_at_21 51 21_1ad45a63-removebg-preview](https://github.com/user-attachments/assets/36b1bb93-7179-4ff0-a88f-607fe490780a)
 
 ## MartenalCare - C242-PS083  - Bangkit 2024
 MaternalCare: Smart and Integrated Technology-Based Maternal Health Monitoring Solution
