@@ -1,4 +1,4 @@
-                      ![Logo MaternalCare](https://github.com/user-attachments/assets/73a76e6e-7941-4b7e-8548-7ae851bd97d6)
+![Logo MaternalCare](https://github.com/user-attachments/assets/78d95a82-cdfc-435e-9a16-dc7458f8849e)
 
 ## MartenalCare - C242-PS083  - Bangkit 2024
 MaternalCare: Smart and Integrated Technology-Based Maternal Health Monitoring Solution
